@@ -78,8 +78,8 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: 球路App官方下载 # Optional - Enter your site title
-description: 球路官方下载页面，iOS和Android版 # Optional - Enter your site description
+title: 球路App官方下载页面 # Optional - Enter your site title
+description: 球路官方下载页面。球路App iOS和Android版下载 # Optional - Enter your site description
 
 #
 # Google Analytics
